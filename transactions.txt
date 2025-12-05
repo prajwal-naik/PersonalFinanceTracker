@@ -1,0 +1,11 @@
+2025-11-29,12.5,Food,Lunch
+2025-11-01,800.0,Rent,Monthly rent
+2025-11-29,12.5,Food,Lunch
+2025-11-01,800.0,Rent,Monthly rent
+2025-11-30,12.5,Food,Lunch
+2025-12-01,800.0,Rent,Monthly rent
+2025-12-01,20.0,Food,Lunch
+2025-11-30,12.5,Food,Lunch
+2025-12-01,800.0,Rent,Monthly rent
+2025-12-03,12.5,Food,Lunch
+2025-12-01,800.0,Rent,Monthly rent

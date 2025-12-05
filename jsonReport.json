@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2025-11-29",
+    "amount": 12.5,
+    "category": "Food",
+    "description": "Lunch"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 800.0,
+    "category": "Rent",
+    "description": "Monthly rent"
+  },
+  {
+    "date": "2025-11-29",
+    "amount": 12.5,
+    "category": "Food",
+    "description": "Lunch"
+  },
+  {
+    "date": "2025-11-01",
+    "amount": 800.0,
+    "category": "Rent",
+    "description": "Monthly rent"
+  }
+]
