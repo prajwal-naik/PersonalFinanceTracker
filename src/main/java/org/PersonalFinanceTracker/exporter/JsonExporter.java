@@ -14,7 +14,7 @@ public class JsonExporter extends AbstractExporter {
 //    }
 
     @Override
-    protected String serialize(List<Transaction> transactions) {
+    public String serialize(List<Transaction> transactions) {
         StringBuilder sb = new StringBuilder();
         sb.append("[\n");
 
